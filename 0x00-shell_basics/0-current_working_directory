@@ -1,1 +1,2 @@
-#!bin/bash/n 1-listit
+#!/bin/bash
+pwd
